@@ -12,4 +12,4 @@ An online shop html template was downloaded from below link and conected to the 
 https://codeload.github.com/StartBootstrap/startbootstrap-shop-homepage/zip/refs/heads/gh-pages
 
 4th Edition:
-
+Customer, Category, Product and Order models were made 
