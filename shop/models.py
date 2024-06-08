@@ -26,6 +26,7 @@ class Product(models.Model):
     
 
     is_sale=models.BooleanField(default=False)
+          
     sale_price=models.DecimalField(max_digits=12, decimal_places=2)
     star=models.IntegerField(default=0, validators=[MinValueValidator(0), MaxValueValidator(5)])
     picture=models.ImageField(upload_to='upload/product')
