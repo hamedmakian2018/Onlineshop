@@ -13,3 +13,12 @@ https://codeload.github.com/StartBootstrap/startbootstrap-shop-homepage/zip/refs
 
 4th Edition:
 Customer, Category, Product and Order models were made 
+
+
+
+5th Edition:
+Proudct model was connected to index.html file and it can show all product that were added.
+
+
+6th Edition:
+Navigation links and Header & footer of page were separated in individual pages for more easily organizing
