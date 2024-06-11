@@ -22,3 +22,7 @@ Proudct model was connected to index.html file and it can show all product that 
 
 6th Edition:
 Navigation links and Header & footer of page were separated in individual pages for more easily organizing
+
+
+7th Edition:
+Login, logout and sin up  were added to menu
